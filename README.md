@@ -1,2 +1,2 @@
 # hello_world
-just learning
+just learning basics of python packages.
